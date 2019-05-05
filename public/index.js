@@ -3340,17 +3340,11 @@ var App = function (_Component) {
 
 		var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 
-		_this.state = { value: 'hello' };
-		_this.handleClick = _this.handleClick.bind(_this);
+		_this.state = {};
 		return _this;
 	}
 
 	_createClass(App, [{
-		key: "handleClick",
-		value: function handleClick(e) {
-			console.log('hello');
-		}
-	}, {
 		key: "render",
 		value: function render() {
 			return _react2.default.createElement(
