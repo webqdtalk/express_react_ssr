@@ -1,0 +1,13 @@
+.Switch_tab {
+  color: #f00; }
+  .Switch_tab .tab-item {
+    display: inline-block;
+    color: #333;
+    text-align: center;
+    width: 50%;
+    padding: 10px 0; }
+  .Switch_tab .active {
+    background: #dadada;
+    color: #fff; }
+  .Switch_tab .content {
+    height: 100px; }

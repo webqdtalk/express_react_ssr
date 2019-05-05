@@ -1,0 +1,17 @@
+.Switch_tab{
+    color:#f00;
+    .tab-item{
+        display:inline-block;
+        color:#333;
+        text-align:center;
+        width:50%;
+        padding:10px 0;
+    }
+    .active{
+        background:#dadada;
+        color:#fff;
+    }
+    .content{
+        height:100px;
+    }
+}
