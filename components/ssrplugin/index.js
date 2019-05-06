@@ -19,4 +19,4 @@ class Ssrplugin extends React.Component {
     );
   }
 }
-module.exports = Ssrplugin;
+export default Ssrplugin;

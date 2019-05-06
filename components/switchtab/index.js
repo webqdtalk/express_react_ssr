@@ -43,4 +43,4 @@ class Switch_tab extends React.Component {
     );
   }
 }
-module.exports = Switch_tab;
+export default Switch_tab;
